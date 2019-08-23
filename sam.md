@@ -677,7 +677,7 @@ telecom_df.hist()
 
 
 
-  <img src="/assets/1A.png" alt="png" />
+  <img src="assets/1A.png" alt="png" />
 
 
 The distribution for "MonthlyCharges" shows a high frequency with lowest charges and a low frequency with high charges. The "TotalCharges" distribution is skewed to the right. The distributions do not seem uncommon and the boundaries make sense.
@@ -724,7 +724,7 @@ for x in categorical_features:
     
 
 
-<img src="/assets/2A.png" alt="png" />
+<img src="assets/2A.png" alt="png" />
 
 
 
@@ -732,7 +732,7 @@ for x in categorical_features:
     
 
 
-<img src="/assets/2B.png" alt="png" />
+<img src="assets/2B.png" alt="png" />
 
 
 
@@ -740,7 +740,7 @@ for x in categorical_features:
     
 
 
-<img src="/assets/2C.png" alt="png" />
+<img src="assets/2C.png" alt="png" />
 
 
 
@@ -748,7 +748,7 @@ for x in categorical_features:
     
 
 
-<img src="/assets/2D.png" alt="png" />
+<img src="assets/2D.png" alt="png" />
 
 
 
@@ -756,7 +756,7 @@ for x in categorical_features:
     
 
 
-<img src="/assets/2E.png" alt="png" />
+<img src="assets/2E.png" alt="png" />
 
 
 
@@ -764,7 +764,7 @@ for x in categorical_features:
     
 
 
-<img src="/assets/2F.png" alt="png" />
+<img src="assets/2F.png" alt="png" />
 
 
 
@@ -772,7 +772,7 @@ for x in categorical_features:
     
 
 
-<img src="/assets/2G.png" alt="png" />
+<img src="assets/2G.png" alt="png" />
 
 
 
@@ -780,7 +780,7 @@ for x in categorical_features:
     
 
 
-<img src="/assets/2H.png" alt="png" />
+<img src="assets/2H.png" alt="png" />
 
 
 
@@ -788,7 +788,7 @@ for x in categorical_features:
     
 
 
-<img src="/assets/2I.png" alt="png" />
+<img src="assets/2I.png" alt="png" />
 
 
 
@@ -796,7 +796,7 @@ for x in categorical_features:
     
 
 
-<img src="/assets/2J.png" alt="png" />
+<img src="assets/2J.png" alt="png" />
 
 
 
@@ -804,7 +804,7 @@ for x in categorical_features:
     
 
 
-<img src="/assets/2K.png" alt="png" />
+<img src="assets/2K.png" alt="png" />
 
 
 
@@ -812,7 +812,7 @@ for x in categorical_features:
     
 
 
-<img src="/assets/2L.png" alt="png" />
+<img src="assets/2L.png" alt="png" />
 
 
 
@@ -820,7 +820,7 @@ for x in categorical_features:
     
 
 
-<img src="/assets/2M.png" alt="png" />
+<img src="assets/2M.png" alt="png" />
 
 
 
@@ -828,34 +828,34 @@ for x in categorical_features:
     
 
 
-<img src="/assets/2N.png" alt="png" />
+<img src="assets/2N.png" alt="png" />
 
 
     Feature: PaperlessBilling
     
 
-<img src="/assets/2O.png" alt="png" />
+<img src="assets/2O.png" alt="png" />
 
 
 
     Feature: PaymentMethod
     
 
-<img src="/assets/2P.png" alt="png" />
+<img src="assets/2P.png" alt="png" />
 
 
 
     Feature: Churn
     
 
-<img src="/assets/2Q.png" alt="png" />
+<img src="assets/2Q.png" alt="png" />
 
 
 
     Feature: Tenure Group
     
 
-<img src="/assets/2R.png" alt="png" />
+<img src="assets/2R.png" alt="png" />
 
 
 
@@ -874,7 +874,7 @@ sns.barplot(x="Tenure Group", y="MonthlyCharges", hue="Churn", data=telecom_df)
 
 
 
-<img src="/assets/3A.png" alt="png" />
+<img src="assets/3A.png" alt="png" />
 
 
 
@@ -894,7 +894,7 @@ plt.xticks(rotation=30)
 
 
 
-<img src="/assets/4A.png" alt="png" />
+<img src="assets/4A.png" alt="png" />
 
 
 
@@ -1053,7 +1053,7 @@ sns.boxplot(x=telecom_df["Churn"], y=telecom_df["MonthlyCharges"])
 
 
 
-<img src="/assets/5A.png" alt="png" />
+<img src="assets/5A.png" alt="png" />
 
 
 
