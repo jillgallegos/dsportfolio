@@ -8,30 +8,27 @@ Under Construction!
 
 
 
-![useful image](../assets/1A.png)
+<img src="blob/gh-pages/assets/1A.PNG" alt="">
 
 
 
-![useful image](/assets/1A.png)
+
+![image](blob/gh-pages/assets/1A.PNG)
 
 
 
-<img src="assets/1A.png">
+<img src="{{site.url}}blob/gh-pages/assets/1A.PNG">
 
 
 
-![useful image]({{site.url}}/assets/1A.png)
+![useful image](https://github.com/jillgallegos/dsportfolio/blob/gh-pages/assets/1A.PNG)
+
+
+<img src="../blob/gh-pages/assets/1A.PNG" alt="">
 
 
 
-![useful image]({{site.url}}../assets/1A.png)
-
-
-![useful image]({{"/assets/1A.png" | absolute_url}})
-
-
-
-< img src="assets/1A.png" alt="png">
+![useful image]({{site.url}}{{site.baseurl}}/blob/gh-pages/assets/1A.PNG)
 
 
 
