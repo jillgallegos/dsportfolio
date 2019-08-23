@@ -8,7 +8,7 @@ Under Construction!
 
 
 
-<img src="/assets/1A.PNG" alt="png">
+<img src="/gh-pages/assets/1A.PNG" alt="png">
 
 
 
@@ -17,7 +17,7 @@ Under Construction!
 
 
 
-<img src="{{site.url}}/assets/1A.PNG">
+<img src="{{site.url}}/gh-pages/assets/1A.PNG">
 
 
 
@@ -29,6 +29,29 @@ Under Construction!
 
 
 ![useful image]({{site.url}}{{site.baseurl}}/assets/1A.PNG)
+
+
+
+![useful image] ({{site.url}}/assets/1A.PNG)
+
+
+
+<img src="assets/1A.PNG">
+
+
+![useful image](/assets/1A.PNG)
+
+
+![useful image](../assets/1A.PNG)
+
+
+![useful image]({{site.url}}../assets/1A.PNG)
+
+
+![usefule image]({{"/assets/1A.PNG" | absolute_url}})
+
+
+<img src="assets/1A.PNG" alt="png">
 
 
 
