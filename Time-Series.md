@@ -4,7 +4,7 @@ title: Time Series
 permalink: /time-series/
 ---
 
-Still Under Construction!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+Still Under Construction!
 
 two
 ![image](/assets/1A.PNG)
@@ -18,37 +18,6 @@ five
 
 
 
-spacefive
-
-
-spacesix
-
-
-
-
-seven
-![useful image] ({{site.url}}/assets/1A.PNG)
-
-
-
-
-
-spaceseven
-
-
-
-eight
-<img src="assets/1A.PNG">
-
-
-
-
-
-spaceeight
-
-
-
-
 
 nine
 ![useful image](/assets/1A.PNG)
@@ -56,6 +25,60 @@ nine
 
 spacenine
 
+
+
+
+ten
+![useful image](../assets/1A.PNG)
+
+
+
+
+spaceten
+
+
+
+
+eleven
+![useful image]({{site.url}}../assets/1A.PNG)
+
+
+
+
+spaceeleven
+
+
+
+
+
+twelve
+![usefule image]({{"/assets/1A.PNG" | absolute_url}})
+
+
+
+
+
+spacetwelve
+
+
+thirteen
+<img src="assets/1A.PNG" alt="png">
+
+
+
+
+
+
+spacethirteen
+
+
+
+
+
+
+
+six
+![useful image]({{site.url}}{{site.baseurl}}/assets/1A.PNG)
 
 
 
