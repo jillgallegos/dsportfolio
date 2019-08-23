@@ -677,7 +677,7 @@ telecom_df.hist()
 
 
 
-  <img src="assets/1A.png" alt="png" />
+  <img src="dsportfolio/assets/1A.PNG" alt="PNG" />
 
 
 The distribution for "MonthlyCharges" shows a high frequency with lowest charges and a low frequency with high charges. The "TotalCharges" distribution is skewed to the right. The distributions do not seem uncommon and the boundaries make sense.
