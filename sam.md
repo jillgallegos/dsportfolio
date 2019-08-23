@@ -724,126 +724,126 @@ for x in categorical_features:
     
 
 
-<img src="{{site.url}}/assets/2A.png">
+<img src="{{site.baseurl}}/assets/2A.png">
 
 
     Feature: SeniorCitizen
     
 
 
-<img src="{{site.url}}/assets/2B.png">
+<img src="{{site.baseurl}}/assets/2B.png">
 
 
     Feature: Partner
     
 
 
-<img src="{{site.url}}/assets/2C.png">
+<img src="{{site.baseurl}}/assets/2C.png">
 
 
     Feature: Dependents
     
 
 
-<img src="{{site.url}}/assets/2D.png">
+<img src="{{site.baseurl}}/assets/2D.png">
 
 
     Feature: PhoneService
     
 
 
-<img src="{{site.url}}/assets/2E.png">
+<img src="{{site.baseurl}}/assets/2E.png">
 
 
     Feature: MultipleLines
     
 
 
-<img src="{{site.url}}/assets/2F.png">
+<img src="{{site.baseurl}}/assets/2F.png">
 
 
     Feature: InternetService
     
 
 
-<img src="{{site.url}}/assets/2G.png">
+<img src="{{site.baseurl}}/assets/2G.png">
 
 
     Feature: OnlineSecurity
     
 
 
-<img src="{{site.url}}/assets/2H.png">
+<img src="{{site.baseurl}}/assets/2H.png">
 
 
     Feature: OnlineBackup
     
 
 
-<img src="{{site.url}}/assets/2I.png">
+<img src="{{site.baseurl}}/assets/2I.png">
 
 
     Feature: DeviceProtection
     
 
 
-<img src="{{site.url}}/assets/2J.png">
+<img src="{{site.baseurl}}/assets/2J.png">
 
 
     Feature: TechSupport
     
 
 
-<img src="{{site.url}}/assets/2K.png">
+<img src="{{site.baseurl}}/assets/2K.png">
 
 
     Feature: StreamingTV
     
 
 
-<img src="{{site.url}}/assets/2L.png">
+<img src="{{site.baseurl}}/assets/2L.png">
 
 
     Feature: StreamingMovies
     
 
 
-<img src="{{site.url}}/assets/2M.png">
+<img src="{{site.baseurl}}/assets/2M.png">
 
 
     Feature: Contract
     
 
 
-<img src="{{site.url}}/assets/2N.png">
+<img src="{{site.baseurl}}/assets/2N.png">
 
 
     Feature: PaperlessBilling
     
 
 
-<img src="{{site.url}}/assets/2O.png">
+<img src="{{site.baseurl}}/assets/2O.png">
 
 
     Feature: PaymentMethod
     
 
 
-<img src="{{site.url}}/assets/2P.png">
+<img src="{{site.baseurl}}/assets/2P.png">
 
 
     Feature: Churn
     
 
 
-<img src="{{site.url}}/assets/2Q.png">
+<img src="{{site.baseurl}}/assets/2Q.png">
 
 
     Feature: Tenure Group
     
 
 
-<img src="{{site.url}}/assets/2R.png">
+<img src="{{site.baseurl}}/assets/2R.png">
 
 
 The categorical feature distributions above show the unique values for each feature, there are no incorrect values. All of the categorical features seem to have a reasonably broad distribution, as a result, all of them will be kept for further analysis.
@@ -861,7 +861,7 @@ sns.barplot(x="Tenure Group", y="MonthlyCharges", hue="Churn", data=telecom_df)
 
 
 
-<img src="{{site.url}}/assets/3A.png">
+<img src="{{site.baseurl}}/assets/3A.png">
 
 
 The bar plot above shows that across all tenure groups customers who churn have higher monthly charges then those that do not churn.
@@ -880,7 +880,7 @@ plt.xticks(rotation=30)
 
 
 
-<img src="{{site.url}}/assets/4A.png">
+<img src="{{site.baseurl}}/assets/4A.png">
 
 
 The bar plot above shows once again that customers who churn have higher monthly charges no matter what payment method they are using.
@@ -1038,7 +1038,7 @@ sns.boxplot(x=telecom_df["Churn"], y=telecom_df["MonthlyCharges"])
 
 
 
-<img src="{{site.url}}/assets/5A.png">
+<img src="{{site.baseurl}}/assets/5A.png">
 
 
 As observed with the bar plots and summary statistics the box plot above also shows customer's who have churned have a higher median MonthlyCharges, first quartile, and third quartile than non-churned customers.
