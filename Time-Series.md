@@ -6,25 +6,6 @@ permalink: /time-series/
 
 Still Under Construction!
 
-two
-![image](/assets/1A.PNG)
-
-
-
-
-
-five
-<img src="../assets/1A.PNG" alt="png">
-
-
-
-
-nine
-![useful image](/assets/1A.PNG)
-
-
-spacenine
-
 
 
 
