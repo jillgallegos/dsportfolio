@@ -4,7 +4,7 @@ title: Time Series
 permalink: /time-series/
 ---
 
-Still Under Construction! Please come back.
+Still Under Construction!
 
 
 
