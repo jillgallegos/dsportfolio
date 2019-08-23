@@ -41,56 +41,8 @@ five
 
 spacefive
 
-six
-![useful image]({{site.url}}{{site.baseurl}}/assets/1A.PNG)
-
-spacesix
-
-
-seven
-![useful image] ({{site.url}}/assets/1A.PNG)
-
-
-spaceseven
-
-eight
-<img src="assets/1A.PNG">
-
-
-spaceeight
-
-
-nine
-![useful image](/assets/1A.PNG)
-
-
-spacenine
-
-
-ten
-![useful image](../assets/1A.PNG)
-
-
-spaceten
-
-eleven
-![useful image]({{site.url}}../assets/1A.PNG)
-
-
-spaceeleven
-
-
-twelve
-![usefule image]({{"/assets/1A.PNG" | absolute_url}})
 
 
 
-spacetwelve
 
-
-thirteen
-<img src="assets/1A.PNG" alt="png">
-
-
-spacethirteen
 
