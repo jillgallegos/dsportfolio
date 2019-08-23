@@ -675,8 +675,9 @@ telecom_df.hist()
           dtype=object)
 
 
-
-   ![useful image]({{site.url}}/assets/1A.png)
+   
+   ![alt text](../assets/1A.png)
+  
  
 
 
