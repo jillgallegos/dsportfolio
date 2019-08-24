@@ -676,7 +676,7 @@ telecom_df.hist()
 
 
    
-   ![useful image]({{site.url}}/assets/1A.png)
+   ![image](/assets/1A.PNG)
   
  
 
@@ -725,7 +725,8 @@ for x in categorical_features:
     
 
 
-<img src="assets/2A.png" alt="png" />
+![image](/assets/2A.PNG)
+
 
 
 
@@ -733,7 +734,8 @@ for x in categorical_features:
     
 
 
-<img src="assets/2B.png" alt="png" />
+![image](/assets/2B.PNG)
+
 
 
 
@@ -741,7 +743,8 @@ for x in categorical_features:
     
 
 
-<img src="assets/2C.png" alt="png" />
+![image](/assets/2C.PNG)
+
 
 
 
@@ -749,7 +752,8 @@ for x in categorical_features:
     
 
 
-<img src="assets/2D.png" alt="png" />
+![image](/assets/2D.PNG)
+
 
 
 
@@ -757,7 +761,8 @@ for x in categorical_features:
     
 
 
-<img src="assets/2E.png" alt="png" />
+![image](/assets/2E.PNG)
+
 
 
 
@@ -765,7 +770,8 @@ for x in categorical_features:
     
 
 
-<img src="assets/2F.png" alt="png" />
+![image](/assets/2F.PNG)
+
 
 
 
@@ -773,7 +779,8 @@ for x in categorical_features:
     
 
 
-<img src="assets/2G.png" alt="png" />
+![image](/assets/2G.PNG)
+
 
 
 
@@ -781,7 +788,8 @@ for x in categorical_features:
     
 
 
-<img src="assets/2H.png" alt="png" />
+![image](/assets/2H.PNG)
+
 
 
 
@@ -789,7 +797,7 @@ for x in categorical_features:
     
 
 
-<img src="assets/2I.png" alt="png" />
+![image](/assets/2I.PNG)
 
 
 
@@ -797,7 +805,8 @@ for x in categorical_features:
     
 
 
-<img src="assets/2J.png" alt="png" />
+![image](/assets/2J.PNG)
+
 
 
 
@@ -805,7 +814,8 @@ for x in categorical_features:
     
 
 
-<img src="assets/2K.png" alt="png" />
+![image](/assets/2K.PNG)
+
 
 
 
@@ -813,7 +823,8 @@ for x in categorical_features:
     
 
 
-<img src="assets/2L.png" alt="png" />
+![image](/assets/2L.PNG)
+
 
 
 
@@ -821,7 +832,8 @@ for x in categorical_features:
     
 
 
-<img src="assets/2M.png" alt="png" />
+![image](/assets/2M.PNG)
+
 
 
 
@@ -829,34 +841,40 @@ for x in categorical_features:
     
 
 
-<img src="assets/2N.png" alt="png" />
+![image](/assets/2N.PNG)
+
 
 
     Feature: PaperlessBilling
     
 
-<img src="assets/2O.png" alt="png" />
+![image](/assets/2O.PNG)
+
 
 
 
     Feature: PaymentMethod
     
 
-<img src="assets/2P.png" alt="png" />
+![image](/assets/2P.PNG)
+
 
 
 
     Feature: Churn
     
 
-<img src="assets/2Q.png" alt="png" />
+
+![image](/assets/2Q.PNG)
+
 
 
 
     Feature: Tenure Group
     
 
-<img src="assets/2R.png" alt="png" />
+![image](/assets/2R.PNG)
+
 
 
 
@@ -875,7 +893,8 @@ sns.barplot(x="Tenure Group", y="MonthlyCharges", hue="Churn", data=telecom_df)
 
 
 
-<img src="assets/3A.png" alt="png" />
+![image](/assets/3A.PNG)
+
 
 
 
@@ -895,7 +914,8 @@ plt.xticks(rotation=30)
 
 
 
-<img src="assets/4A.png" alt="png" />
+![image](/assets/4A.PNG)
+
 
 
 
@@ -1054,7 +1074,8 @@ sns.boxplot(x=telecom_df["Churn"], y=telecom_df["MonthlyCharges"])
 
 
 
-<img src="assets/5A.png" alt="png" />
+![image](/assets/5A.PNG)
+
 
 
 
