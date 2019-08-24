@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Churn Predictor
+title: fkdslfjslfkjdskljsdfkl
 permalink: /churn-predictor/
 
 ---
                                            
 
-### Introduction
 
 Customer churn occurs when customers stop doing business with a company. Understanding the reasons behind customer churn is important as it is less expensive for companies to maintain existing customers then it is to attract new customers. This project will present a customer churn prediction model using <a href="https://www.kaggle.com/blastchar/telco-customer-churn">Telecom Customer Churn dataset</a>. Relevant and irrelavant variables will be determined, along with what model works best for the customer churn analysis with the given dataset. Supervised learning model with a categorical target variable.
 
@@ -62,7 +61,7 @@ pd.set_option('display.max_columns', 500)
 telecom_df.head(15)
 ```
 
-
+I need for this tho worelkdsfjdslkgfjdslfkjsdlfkjsdlfkjdsflkj
 
 
 <div>
