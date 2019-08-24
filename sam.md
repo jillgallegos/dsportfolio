@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Title
+title: Churn Predictor
 permalink: /churn-predictor/
 
 ---
