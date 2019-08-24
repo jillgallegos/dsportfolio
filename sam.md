@@ -7,7 +7,6 @@ permalink: /churn-predictor/
                                            
 
 
-Customer churn occurs when customers stop doing business with a company. Understanding the reasons behind customer churn is important as it is less expensive for companies to maintain existing customers then it is to attract new customers. This project will present a customer churn prediction model using <a href="https://www.kaggle.com/blastchar/telco-customer-churn">Telecom Customer Churn dataset</a>. Relevant and irrelavant variables will be determined, along with what model works best for the customer churn analysis with the given dataset. Supervised learning model with a categorical target variable.
 
 
 ```python
