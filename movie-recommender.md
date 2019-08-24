@@ -443,7 +443,8 @@ sns.distplot(movie_ratings_combine["rating"], kde=False)
 
 
 
-<img src="{{site.baseurl}}/assets/2_1A.png">
+![image](/assets/2_1A.PNG)
+
 
 
 The ratings distribution above shows ratings ranging from 0.5 to 5.0. The most common rating is 4.0 and least common is 0.5.
@@ -693,7 +694,8 @@ plt.bar(highestcount_ratings["title"].head(5),highestcount_ratings["ratingtotal_
 
 
 
-<img src="{{site.baseurl}}/assets/2_2A.png">
+![image](/assets/2_2A.PNG)
+
 
 
 Figure: shows movies with the most ratings count
