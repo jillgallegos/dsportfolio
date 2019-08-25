@@ -4,7 +4,7 @@ title: Telecom Churn Predictor
 permalink: /churn-predictor/
 
 ---
-                                           
+
 
 
 ### Introduction
