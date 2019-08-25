@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Time Series 
+title: Classical Time Series and ML Time Series
 permalink: /time-series/
 ---
 
