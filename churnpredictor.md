@@ -62,7 +62,6 @@ pd.set_option('display.max_columns', 500)
 telecom_df.head(15)
 ```
 
-I need for this tho worelkdsfjdslkgfjdslfkjsdlfkjsdlfkjdsflkj
 
 
 <div>
